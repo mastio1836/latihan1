@@ -55,8 +55,8 @@ $ git config --global user.email “nama_user”
 ## Menambahkan Remote Repository
 - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 - Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
-- $ git remote add origin https://github.com/.........
-- ![gitremoteaddorigin](C:/Users/user/Desktop/New%20folder/Capture6.PNG)
+- $ git remote add origin 
+- ![gitremoteaddorigin](https://github.com/mastio1836/latihan1/blob/master/gambar/git%20commit%20%20add%20ortigin.PNG)
 ## Push (Mengirim perubahan ke server)
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 - Perintah ini akan meminta memasukkan username dan password pada akun github.com
