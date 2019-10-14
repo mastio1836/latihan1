@@ -1,4 +1,4 @@
-# latihan 1 test
+# latihan 1
 ## Tutorial Cara menggunakan git
 ## Instalasi Git
 - pertama download terlebih dahulu git nya di (git-scm.com)
@@ -20,7 +20,7 @@ $ git config --global user.email “nama_user”
 - $ mkdir latihan1 $ cd latihan1
 - Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 - direktory aktif menjadi: d:\labs_pemrograman1\latihan1
-- ![repolokal](C:/Users/user/Desktop/New%20folder/Capture12.PNG)File README.md berhasil dibuat. 
+- ![repolokal](https://github.com/mastio1836/latihan1/blob/master/gambar/mkdir%20%2C%2Ccd.PNG)File README.md berhasil dibuat. 
 
 ## Membuat repo lokal 1.2
 - jalankan perintah git init,untuk membuat repo lokal
