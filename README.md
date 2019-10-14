@@ -10,8 +10,8 @@
 - konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
 - jika kalian tidak konfigurasi terlebih dahulu maka akan terjadi error saat menjalan kan perintah git init commit 
 - CONFIG GLOBAL REPO
-$ git config --global user.name “nama_user”
-$ git config --global user.email “nama_user”
+$ git config --global user.name â€œnama_userâ€
+$ git config --global user.email â€œnama_userâ€
 - ![Gitconfig](https://github.com/mastio1836/latihan1/blob/master/gambar/git%20config.PNG)
 ## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
@@ -31,7 +31,7 @@ $ git config --global user.email “nama_user”
 ## Menambahkan File baru pada repository
 - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository) 
 - disini kita akan coba buat satu file bernama README.md (text file)
-- $ echo “#Latihan 1” >> README.md
+- $ echo â€œ#Latihan 1â€ >> README.md
 - File README.md berhasil dibuat. 
 - ![Filebaru](C:/Users/user/Desktop/New%20folder/Capture13.PNG)
 
@@ -42,9 +42,9 @@ $ git config --global user.email “nama_user”
 - ![Gitadd](C:/Users/user/Desktop/New%20folder/Capture3.PNG)
 
 ## Commit (Menyimpan perubahan ke database)
-- Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
+- Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m â€œkomentar commitâ€
 - Perubahan berhasil disimpan.
-- $ git commit -m “File pertama saya”
+- $ git commit -m â€œFile pertama sayaâ€
 - ![gitcommit](C:/Users/user/Desktop/New%20folder/Capture4.PNG)
 ## Membuat repository server
 - Server reopsitory yang akan kita gunakan adalah http://github.com 
