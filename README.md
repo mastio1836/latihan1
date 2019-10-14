@@ -46,7 +46,7 @@ $ git config --global user.email “nama_user”
 - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
 - Perubahan berhasil disimpan.
 - $ git commit -m “File pertama saya”
-- ![gitcommit](C:/Users/user/Desktop/New%20folder/Capture4.PNG)
+- ![gitcommit](https://github.com/mastio1836/latihan1/blob/master/gambar/git%20commit.PNG)
 ## Membuat repository server
 - Server reopsitory yang akan kita gunakan adalah http://github.com 
 - Anda harus membuat akun terlebih dahulu. 
