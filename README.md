@@ -61,7 +61,7 @@ $ git config --global user.email “nama_user”
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 - Perintah ini akan meminta memasukkan username dan password pada akun github.com
 - $ git push -u origin master
-- ![gitpushorigin](C:/Users/user/Desktop/New%20folder/Capture7.PNG)
+- ![gitpushorigin](https://github.com/mastio1836/latihan1/blob/master/gambar/git%20push%20-u.PNG)
 ## Clone Repository
 - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 - Untuk melakukan cloning, gunakan perintah git clone [url]
