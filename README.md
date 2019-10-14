@@ -27,6 +27,7 @@ $ git config --global user.email “nama_user”
 - $ git init
 - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git 
 - Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
+![Filebaru](https://github.com/mastio1836/latihan1/blob/master/gambar/git%20init.PNG)
 
 ## Menambahkan File baru pada repository
 - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository) 
