@@ -51,6 +51,7 @@ $ git config --global user.email “nama_user”
 - Server reopsitory yang akan kita gunakan adalah http://github.com 
 - Anda harus membuat akun terlebih dahulu. 
 - Pada laman github, klik tombol start a project dan Dari menu (icon +) klik New Repository
+![gitcommit](https://github.com/mastio1836/latihan1/blob/master/gambar/new%20repository.png)
 ## Menambahkan Remote Repository
 - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 - Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
