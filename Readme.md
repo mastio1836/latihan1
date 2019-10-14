@@ -1,4 +1,4 @@
-# latihan 1
+# latihan 1 test
 ## Tutorial Cara menggunakan git
 ## Instalasi Git
 - pertama download terlebih dahulu git nya di (git-scm.com)
