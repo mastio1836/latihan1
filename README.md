@@ -34,7 +34,7 @@ $ git config --global user.email “nama_user”
 - disini kita akan coba buat satu file bernama README.md (text file)
 - $ echo “#Latihan 1” >> README.md
 - File README.md berhasil dibuat. 
-- ![Filebaru](C:/Users/user/Desktop/New%20folder/Capture13.PNG)
+- ![Filebaru](https://github.com/mastio1836/latihan1/blob/master/gambar/echo.PNG)
 
 ## Menambahkan File baru pada repository
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
